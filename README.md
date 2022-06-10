@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @BeezKoc
+- 👀 I’m interested in Flutter
+- 🌱 I’m currently learning AI
+- 💞️ I’m looking to collaborate on Mobile Development
+- 📫 How to reach me samed_fazli@hotmail.com
